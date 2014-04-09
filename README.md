@@ -7,3 +7,6 @@
 	- `z_order_x`: get x from index
 	- `z_order_y`: get y from index
 	- `z_order`: get index from x and y
+
+# Reference #
+[Converting to and from Dilated Integers](http://www.cs.indiana.edu/~dswise/Arcee/castingDilated-comb.pdf) by Rajeev Raman and David S. Wise
